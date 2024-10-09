@@ -1,0 +1,56 @@
+.img1{
+    justify-content: center;
+        display: flex;
+        width: px;
+        background-color:  #23232e;
+        flex-direction:column;
+    
+    
+    }
+    button {
+        
+        background-color: transparent;
+        border: none;
+    }
+    .botao {
+        display: flex;
+        justify-self: center;
+        
+        
+    }
+    .button1 {
+        background-color: #c80000 ;
+    }
+    .button2 {
+        background-color: #003ec8;
+    }
+    .img3 {
+        background-color:#23232e;
+        display: flex;
+        justify-content: center;
+    }
+    .bunda{
+        
+        justify-content: center;
+    }
+    .kaka{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 1234px;
+        padding-left: 292px;
+        
+    }
+    .b1{
+        justify-content: center;
+        display: flex;
+    }
+    .b2{
+        
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        
+    }     
+                
+        
